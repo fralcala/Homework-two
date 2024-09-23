@@ -200,6 +200,38 @@ footer {
   border-radius: 20px 20px 0px 0px;
   background-image: url(../images/wings.jpg);
 }
+.products .container .box .cBoxOne {
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px 20px 0px 0px;
+  background-image: url(../images/pep-pizza.jpg);
+}
+.products .container .box .cBoxTwo {
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px 20px 0px 0px;
+  background-image: url(../images/meat-pizza.jpg);
+}
+.products .container .box .cBoxThree {
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px 20px 0px 0px;
+  background-image: url(../images/cheese-pizza.jpg);
+}
+.products .container .box .cBoxFour {
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px 20px 0px 0px;
+  background-image: url(../images/sausege.jpg);
+}
 .products .container .box h2 {
   padding: 10px 10px 0px 10px;
   font-family: merri-reg;

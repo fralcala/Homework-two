@@ -66,29 +66,32 @@ const productsPage = `<div class="products">
                 <div class="desc"> ipsum dolor sit amet consectetur adipisicing... </div>
             </div>
         </div>
+
+        // ///// //
+        
         <h1>Classic</h1>
         <div class="container">
              <div class="box">
-                <div class="boxOne"></div>
+                <div class="cBoxOne"></div>
                 <h2>Original Pep Pizza</h2>
                 <div class="desc"> facere illum nihil placeat... </div>
             </div>
 
             <div class="box">
-                <div class="boxTwo"></div>
-                <h2>Classic Meaty Pizza</h2>
+                <div class="cBoxTwo"></div>
+                <h2>Classic Ham Pizza</h2>
                 <div class="desc"> Consectetur minus aut tenetur... </div>
             </div>
 
             <div class="box">
-                <div class="boxThree"></div>
-                <h2>Three Pizza Classic</h2>
+                <div class="cBoxThree"></div>
+                <h2>Best Cheese Pizza</h2>
                 <div class="desc"> omnis corrupti sequi... </div>
             </div>
 
             <div class="box">
-                <div class="boxFour"></div>
-                <h2>Classic Best Wings</h2>
+                <div class="cBoxFour"></div>
+                <h2>Classic Sausage Pizza</h2>
                 <div class="desc"> ipsum dolor sit amet consectetur adipisicing... </div>
             </div>
         </div>
