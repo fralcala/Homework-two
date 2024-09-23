@@ -142,3 +142,69 @@ footer {
 .home .popular .container .box .desc {
   padding: 0px 10px 0px 10px;
 }
+
+.products {
+  min-height: 100vh;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.products h1 {
+  font-family: merri-reg;
+  font-size: 45px;
+  margin-bottom: 30px;
+  border-bottom: 3px solid black;
+}
+.products .container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.products .container .box {
+  width: 500px;
+  height: 300px;
+  margin: 10px 10px 50px 10px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.479);
+}
+.products .container .box .boxOne {
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px 20px 0px 0px;
+  background-image: url(../images/pep-pizza.jpg);
+}
+.products .container .box .boxTwo {
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px 20px 0px 0px;
+  background-image: url(../images/meat-pizza.jpg);
+}
+.products .container .box .boxThree {
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px 20px 0px 0px;
+  background-image: url(../images/three-pizza.jpg);
+}
+.products .container .box .boxFour {
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px 20px 0px 0px;
+  background-image: url(../images/wings.jpg);
+}
+.products .container .box h2 {
+  padding: 10px 10px 0px 10px;
+  font-family: merri-reg;
+  font-size: 20px;
+}
+.products .container .box .desc {
+  padding: 0px 10px 0px 10px;
+}
