@@ -1,0 +1,44 @@
+.contact {
+  min-height: 100vh;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  //   justify-content: center;
+  //   align-items: center;
+  h1 {
+    font-family: merri-reg;
+    font-size: 45px;
+    padding-bottom: 20px;
+  }
+
+  p {
+    width: 90%;
+  }
+  .order-today {
+    font-family: merri-bold;
+    font-weight: bold;
+    font-size: 17px;
+  }
+
+  .contact-info {
+    font-family: merri-reg;
+  }
+
+  .holder {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+
+    .contact-image {
+      width: 500px;
+      height: 300px;
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-image: url(../images/pizza-guy-phone.jpg);
+    }
+  }
+}

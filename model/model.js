@@ -128,7 +128,17 @@ const aboutPage = `<div class="about">
       </div>`;
 const contactPage = `<div class="contact">
         <h1>Contact</h1>
-        
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad facilis tempore corporis, repellendus officia quis saepe veniam optio voluptatem sapiente voluptas sunt magnam cum ut blanditiis illum dolorem doloremque accusantium? 
+        </p>
+
+        <p class="order-today">Order from Best Pizza today !!! :D</p>
+        <div class="contact-info">
+        <p>Address: Best adrress st 777</p>
+        <p>Phone: 777-777-7777</p></div>
+
+        <div class="holder">
+        <div class="contact-image"></div>
+        </div>
       </div>`;
 export function changePage(pageName) {
   let pageVarName = pageName + "Page";
