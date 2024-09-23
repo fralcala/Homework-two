@@ -1,0 +1,43 @@
+.about {
+  min-height: 100vh;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  h1 {
+    font-family: merri-reg;
+  }
+
+  p {
+    width: 90%;
+    margin: 50px 0px;
+  }
+
+  .about-picOne {
+    height: 300px;
+    width: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../images/makin-pizza.jpg);
+  }
+
+  .about-picTwo {
+    height: 300px;
+    width: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../images/pep-pizza.jpg);
+  }
+
+  .about-picThree {
+    height: 300px;
+    width: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../images/guy-pizza.jpg);
+  }
+}

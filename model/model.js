@@ -97,6 +97,33 @@ const productsPage = `<div class="products">
 
 const aboutPage = `<div class="about">
         <h1>About</h1>
+
+        <div class="about-picOne"></div>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At eius praesentium
+    nulla cumque maiores, delectus id? Explicabo vitae cupiditate et. Vitae,
+    quasi quam. Cum, temporibus quaerat iure porro dolores magni. Ea, quam!
+    Vitae cumque dignissimos quaerat excepturi blanditiis, quae optio amet,
+    aspernatur quos molestiae repellat culpa. Vitae odit necessitatibus quae,
+    provident adipisci voluptatum est officiis iste commodi quo doloremque
+    molestias? Molestiae, illo. Aspernatur dolore nisi, vero error laudantium
+    aliquam possimus obcaecati sunt dignissimos temporibus et fugiat molestiae
+    eligendi reprehenderit amet iure odit pariatur molestias, ullam corrupti
+    accusantium animi ipsa fuga! Sed nostrum iusto, eveniet enim mollitia
+    incidunt deserunt inventore quos! Aliquid quidem adipisci fuga, cupiditate
+    delectus placeat porro quia, at natus odio eveniet tempora? Quam facere
+    perferendis consequatur modi nesciunt. Omnis nulla, libero minima doloremque
+    unde vitae totam illum itaque ducimus dolorum veritatis enim, tempore nobis
+    voluptate culpa eveniet? Corrupti, animi quis. Autem impedit non nesciunt,
+    repellendus quam quos laudantium!</p>
+
+        <div class="about-picTwo"></div>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, minus ipsa, at ullam cum suscipit deserunt possimus perspiciatis odit sed ut nisi cupiditate pariatur dolorum, vitae ducimus. Odit, distinctio! Fugiat?
+        Tenetur recusandae non sapiente animi blanditiis dolor, vel deleniti obcaecati quo facere dolorem, quibusdam accusamus vitae iusto maiores harum illum possimus. At officiis repudiandae hic asperiores, ducimus sapiente quod velit.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum beatae molestiae doloribus? Unde accusantium, eveniet consequatur, voluptate exercitationem earum numquam labore maxime vel, iure cum. Eum cumque modi ipsam fuga.
+        Quo fuga iure illo corporis beatae quos assumenda. Aliquam nisi laboriosam, numquam nam voluptate eaque itaque nostrum deserunt culpa, obcaecati nesciunt non! Natus iste possimus atque. Aut, beatae delectus. Sed?</p>
+
+        <div class="about-picThree"></div>
         
       </div>`;
 const contactPage = `<div class="contact">
