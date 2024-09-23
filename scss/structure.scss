@@ -16,3 +16,23 @@ h6,
 p {
   margin-bottom: 16px;
 }
+
+@font-face {
+  font-family: "merri-reg";
+  src: url(../lib/Merriweather/Merriweather-Regular.ttf);
+}
+
+@font-face {
+  font-family: "merri-ita";
+  src: url(../lib/Merriweather/Merriweather-Italic.ttf);
+}
+
+@font-face {
+  font-family: "merri-light";
+  src: url(../lib/Merriweather/Merriweather-Light.ttf);
+}
+
+@font-face {
+  font-family: "merri-bold";
+  src: url(../lib/Merriweather/Merriweather-Bold.ttf);
+}
