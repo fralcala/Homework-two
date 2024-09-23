@@ -67,7 +67,7 @@ const productsPage = `<div class="products">
             </div>
         </div>
 
-        // ///// //
+
         
         <h1>Classic</h1>
         <div class="container">
